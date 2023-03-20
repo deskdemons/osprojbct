@@ -1,6 +1,5 @@
 #include <stdio.h>
 
-
 int main() {
 
   printf("OS CASE STUDY! BUILDING A PACKAGE FOR APLINE LINUX DISTRO");
